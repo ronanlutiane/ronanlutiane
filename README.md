@@ -2,7 +2,7 @@
 
 # Ronan Lutiane 
 
-Olá, seja bem vindo ao meu perfil! 
+Olá, seja bem vindo(a) ao meu perfil! 
 Sou estudante de Sistemas de Informação em transição de carreira para a área de Tecnologia. Gosto muito de C# e estudo essa linguagem por conta própria no meu tempo livre. Outras linguagens no meu perfil são fruto de trabalhos na faculdade e uma leve experiência com VB6 em ambiente de produção. 
 
 ### Minhas Redes
